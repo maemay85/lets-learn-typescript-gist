@@ -1,5 +1,11 @@
 # let's learn typescript!
 
+
+Useful resources: 
+[the basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+
+
+
 ### 1. Find or clone a new copy of the Pixelate solution code
 
   > Here is a link: [pixelate](https://github.com/FullstackAcademy/PairExercise.Pixelate.Solution)
