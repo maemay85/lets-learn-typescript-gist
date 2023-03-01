@@ -35,7 +35,7 @@ like so:
   > This is the bread and plant-based butter alternative of converting to Typescript. 
   >     
   > To make this maneagable, let's split it up into: 
-  >   - Imports
+  >   - imports
   >   - 
 
 
