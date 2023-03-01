@@ -20,10 +20,23 @@ like so:
     
   > You should now have a tsconfig.json file that may or may not look angry, and has a bunch of commented out code. hooray.
     
- ### 5. Now it's time to get juicy! 
+ ## Now it's time to get juicy, [so hold on to your butts!](https://www.youtube.com/watch?v=HKK4KmDlj8U)
  
-  We're going to convert TableRow.js TableColumn.js and Table.js to typescript, 
-  [so hold on to your butts!](https://www.youtube.com/watch?v=HKK4KmDlj8U)
+### 5. Converting jsx files to typescript
+
+  > 5a. Find TableRow.js and simply rename it to TableRow.ts
+  > 
+  >     Your linter should be very upset! Let's do something about that...
+  >     
+  > 5b. Adding Type Annotation
+  > 
+  >     Everything underlined in squiggly red is still a tactless, unevolved JavaScript variable EW!
+  >     This is the bread and plant-based butter alternative of converting to Typescript. 
+  >     
+  >     Let's take 5 minutes to split up this work and give your variable a considerate, civilized Type!
+
+
+ 
     
     
     
