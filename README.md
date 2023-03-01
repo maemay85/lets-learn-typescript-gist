@@ -16,7 +16,7 @@ like so:
     
   > the best way to do this is: 
         
-       npx tsc --init
+    npx tsc --init
     
   > You should now have a tsconfig.json file that may or may not look angry, and has a bunch of commented out code. hooray.
     
@@ -24,16 +24,19 @@ like so:
  
 ### 5. Converting jsx files to typescript
 
-  > 5a. Find TableRow.js and simply rename it to TableRow.ts
+  > 5a. Find TableRow.js, TableColumn.js, and Table.js and simply rename the file extension to .ts (ex: Table.ts)
   > 
-  >     Your linter should be very upset! Let's do something about that...
-  >     
+  > Your linter should be very upset! Let's do something about that...
+
+
   > 5b. Adding Type Annotation
   > 
-  >     Everything underlined in squiggly red is still a tactless, unevolved JavaScript variable EW!
-  >     This is the bread and plant-based butter alternative of converting to Typescript. 
+  > Everything underlined in squiggly red is still a tactless, unevolved JavaScript variable EWWW!
+  > This is the bread and plant-based butter alternative of converting to Typescript. 
   >     
-  >     Let's take 5 minutes to split up this work and give your variable a considerate, civilized Type!
+  > To make this maneagable, let's split it up into: 
+  >   - Imports
+  >   - 
 
 
  
