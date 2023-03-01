@@ -2,7 +2,7 @@
 
 ### 1. Find or clone a new copy of the Pixelate solution code
 
-  >> Here is a link: [pixelate](https://github.com/FullstackAcademy/PairExercise.Pixelate.Solution)
+  > Here is a link: [pixelate](https://github.com/FullstackAcademy/PairExercise.Pixelate.Solution)
 
 ### 2. npm install, then npm start to check for bugz
 
@@ -14,11 +14,11 @@ like so:
     
 ### 4. Create the tsconfig.json file in your root directory. 
     
-  >> the best way to do this is: 
+  > the best way to do this is: 
         
        npx tsc --init
     
-  >> You should now have a tsconfig.json file that may or may not look angry, and has a bunch of commented out code. hooray.
+  > You should now have a tsconfig.json file that may or may not look angry, and has a bunch of commented out code. hooray.
     
  ### 5. Now it's time to get juicy! 
  
