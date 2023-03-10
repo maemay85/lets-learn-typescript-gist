@@ -1,6 +1,9 @@
 # let's learn typescript!
 
 
+*This is a DRAFT of a tutorial*
+
+
 Useful resources: 
 [the basics](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 
